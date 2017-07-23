@@ -28,6 +28,13 @@
 #nav-list a:hover {
   background: #E7E7E7;
 }
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
 
 h2{
 	font-family: Brushstroke, fantasy;
@@ -127,7 +134,7 @@ section {
 .row {
 	width: 100%;
 	margin-right: auto;
-	margin-left:auto;
+	margin-left: auto;
 }
 
 
